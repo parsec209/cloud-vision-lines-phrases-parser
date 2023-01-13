@@ -1,0 +1,37 @@
+{
+  "name": "cloud-vision-lines-phrases-parser",
+  "description": "Uses customizable parsers to find text located within OCR output.",
+  "version": "1.0.0",
+  "author": "Ryan Galbreath",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanjg08/cloud-vision-lines-phrases-parser.git"
+  },
+  "homepage": "https://github.com/ryanjg08/cloud-vision-lines-phrases-parser",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config=test/config.js"
+  },
+  "keywords": [
+    "cloud-vision-lines-phrases",
+    "parser",
+    "text parser",
+    "document parser",
+    "google cloud",
+    "google vision",
+    "GCP",
+    "Google Cloud Vision",
+    "lines",
+    "phrases",
+    "annotation",
+    "batch file annotation",
+    "OCR"
+  ],
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
