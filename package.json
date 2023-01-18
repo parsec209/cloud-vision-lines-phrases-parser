@@ -6,9 +6,9 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryanjg08/cloud-vision-lines-phrases-parser.git"
+    "url": "https://github.com/parsec209/cloud-vision-lines-phrases-parser.git"
   },
-  "homepage": "https://github.com/ryanjg08/cloud-vision-lines-phrases-parser",
+  "homepage": "https://github.com/parsec209/cloud-vision-lines-phrases-parser",
   "engines": {
     "node": ">=16.0.0"
   },
